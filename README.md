@@ -62,6 +62,7 @@ After completing my graduation, I took ownership of personal responsibilities wh
 📌 **Impact:** Supports strategic decision-making in T20 match scenarios
 
 <img width="1201" height="805" alt="IPL Analysis Dashboard  2008–2024" src="https://github.com/user-attachments/assets/2bda0d93-7010-4494-8c2d-282c49c35dbe" />
+ 
  <img width="1195" height="796" alt="dashboard2 png" src="https://github.com/user-attachments/assets/6f54dc3a-fcaf-465d-9152-026dacfc026e" />
 
 ---
